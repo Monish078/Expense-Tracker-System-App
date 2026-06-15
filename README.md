@@ -386,10 +386,10 @@ CREATE TABLE expenses (
 ## 👨‍💻 Author
 
 **Monish Kumar**
-- B.Tech — Instrumentation & Control Engineering, NSUT Delhi (2025)
+- B.Tech —  NSUT Delhi (2027)
 - Java Backend Developer
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Monish078)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/monish-khan786)
 
 ---
 
